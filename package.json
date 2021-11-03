@@ -1,0 +1,36 @@
+{
+  "name": "oculus-3dr-coordinate-grid-circles",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@react-three/drei": "7.17.1",
+    "@react-three/fiber": "7.0.17",
+    "@react-three/xr": "3.2.0",
+    "@types/three": "0.133.1",
+    "drei": "2.2.21",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "4.0.3",
+    "three": "0.133.1",
+    "trystero": "0.9.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
