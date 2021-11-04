@@ -5,16 +5,16 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@react-three/drei": "7.17.1",
+    "@react-three/drei": "",
     "@react-three/fiber": "7.0.17",
     "@react-three/xr": "3.2.0",
     "@types/three": "0.133.1",
-    "drei": "2.2.21",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
+    "react": "",
+    "react-dom": "",
     "react-scripts": "4.0.3",
     "three": "0.133.1",
-    "trystero": "0.9.1"
+    "trystero": "0.9.1",
+    "three-stdlib": ""
   },
   "devDependencies": {
     "@types/react": "16.9.19",
