@@ -1,1 +1,4 @@
 node_modules
+cert.pem
+key.pem
+ssl-proxy-windows-amd64.exe
