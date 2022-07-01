@@ -5,22 +5,25 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@react-three/drei": "",
+    "@react-three/drei": "7.20.0",
     "@react-three/fiber": "7.0.17",
     "@react-three/xr": "3.2.0",
     "@types/three": "0.133.1",
     "react": "17.0.2",
-    "react-dom": "",
+    "react-dom": "17.0.2",
     "react-scripts": "4.0.3",
     "three": "0.133.1",
-    "three-stdlib": "",
+    "three-stdlib": "2.5.5",
     "trystero": "0.9.1"
   },
   "devDependencies": {
     "@types/react": "17.0.2",
-    "@types/react-dom": "",
+    "@types/react-dom": "17.0.11",
     "cross-env": "^7.0.3",
     "typescript": "^4.4.4"
+  },
+  "resolutions": {
+    "react": "17.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
